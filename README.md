@@ -1,4 +1,4 @@
-# Project_SIME  T
+# Project_SIME T
 
 Kelompok 20
 Anggota:
@@ -7,6 +7,7 @@ Anggota:
 - 12820038
 
 Day 1
+
 12820022
 ![Layout 1_Fadhil](https://user-images.githubusercontent.com/73726084/150667513-1ad094b3-ad4c-4a67-9191-4073dff8fd44.png)
 12820028
